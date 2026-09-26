@@ -1,16 +1,16 @@
 {
  "note": "Every Buffer post made for Hit x Trial Shorts. Batch 1 = first ten economics Shorts (not in queue.json). Rows are appended by the routine; never removed.",
  "summary": {
-  "updatedAt": "2026-09-26T18:12:58Z",
+  "updatedAt": "2026-09-26T21:13:00Z",
   "queueItems": 64,
-  "queueItemsOnBothChannels": 12,
+  "queueItemsOnBothChannels": 15,
   "byChannelStatus": {
    "youtube": {
-    "sent": 14,
+    "sent": 17,
     "scheduled": 8
    },
    "instagram": {
-    "sent": 14,
+    "sent": 17,
     "scheduled": 8
    }
   }
@@ -365,10 +365,10 @@
    "batch": 2,
    "channel": "instagram",
    "postId": "6ab7d84a4b4b9f2c1c4e0eee",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-26T19:02:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-26T19:03:42.392Z",
+   "link": "https://www.instagram.com/reel/DdwvZBrEehl/",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/gamestop.mp4",
    "createdAt": "2026-09-26T14:36:00Z",
    "error": null
@@ -378,10 +378,10 @@
    "batch": 2,
    "channel": "youtube",
    "postId": "6ab7d84d4b4b9f2c1c4e0f66",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-26T19:02:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-26T19:03:16.942Z",
+   "link": "https://www.youtube.com/shorts/DKugkHaqTbQ",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/gamestop.mp4",
    "createdAt": "2026-09-26T14:36:00Z",
    "error": null
@@ -391,10 +391,10 @@
    "batch": 2,
    "channel": "instagram",
    "postId": "6ab7d8519f89edbefe74f0b4",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-26T20:12:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-26T20:12:58.852Z",
+   "link": "https://www.instagram.com/reel/Ddw3Usejw5y/",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/upi-revolution.mp4",
    "createdAt": "2026-09-26T14:36:00Z",
    "error": null
@@ -404,10 +404,10 @@
    "batch": 2,
    "channel": "youtube",
    "postId": "6ab7d85405811e57372ec52e",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-26T20:12:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-26T20:12:05.818Z",
+   "link": "https://www.youtube.com/shorts/11Gl7FiiqGQ",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/upi-revolution.mp4",
    "createdAt": "2026-09-26T14:36:00Z",
    "error": null
@@ -417,10 +417,10 @@
    "batch": 2,
    "channel": "instagram",
    "postId": "6ab7d8579f89edbefe74f142",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-26T21:00:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-26T21:01:57.773Z",
+   "link": "https://www.instagram.com/reel/Ddw80xDk3P6/",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/black-wednesday.mp4",
    "createdAt": "2026-09-26T14:36:00Z",
    "error": null
@@ -430,10 +430,10 @@
    "batch": 2,
    "channel": "youtube",
    "postId": "6ab7d85a0f79a37c5d31377c",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-26T21:00:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-26T21:01:37.803Z",
+   "link": "https://www.youtube.com/shorts/fzHw9FG5yt0",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/black-wednesday.mp4",
    "createdAt": "2026-09-26T14:36:00Z",
    "error": null
@@ -566,6 +566,84 @@
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/beer-flood-1814.mp4",
    "createdAt": "2026-09-26T18:12:50Z",
+   "error": null
+  },
+  {
+   "slug": "india-1991-reforms",
+   "batch": 2,
+   "channel": "instagram",
+   "postId": "6ab8350a05811e573738a097",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T02:37:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/india-1991-reforms.mp4",
+   "createdAt": "2026-09-26T21:11:38Z",
+   "error": null
+  },
+  {
+   "slug": "india-1991-reforms",
+   "batch": 2,
+   "channel": "youtube",
+   "postId": "6ab8351e4b4b9f2c1c585998",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T02:37:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/india-1991-reforms.mp4",
+   "createdAt": "2026-09-26T21:11:58Z",
+   "error": null
+  },
+  {
+   "slug": "enron",
+   "batch": 2,
+   "channel": "instagram",
+   "postId": "6ab835254b4b9f2c1c585a3e",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T04:20:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/enron.mp4",
+   "createdAt": "2026-09-26T21:12:05Z",
+   "error": null
+  },
+  {
+   "slug": "enron",
+   "batch": 2,
+   "channel": "youtube",
+   "postId": "6ab8352a0f79a37c5d3b40de",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T04:20:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/enron.mp4",
+   "createdAt": "2026-09-26T21:12:10Z",
+   "error": null
+  },
+  {
+   "slug": "satyam-scandal",
+   "batch": 2,
+   "channel": "instagram",
+   "postId": "6ab835363d66d464e5bd5e0b",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T04:46:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/satyam-scandal.mp4",
+   "createdAt": "2026-09-26T21:12:22Z",
+   "error": null
+  },
+  {
+   "slug": "satyam-scandal",
+   "batch": 2,
+   "channel": "youtube",
+   "postId": "6ab8353d0f79a37c5d3b421a",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T04:46:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/satyam-scandal.mp4",
+   "createdAt": "2026-09-26T21:12:29Z",
    "error": null
   }
  ]
