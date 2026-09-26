@@ -74,3 +74,5 @@ URL equals the queue's `videoUrl` (or the row's old URL in the ledger) with stat
 - Never post anything that is not in `queue.json`.
 - Never exceed 8 scheduled posts on a channel, or 16 creates in one run.
 - Never run apt-get.
+- Never add `Co-Authored-By`, `Claude-Session` or any other Claude attribution line to a commit
+  message. The commit message is the one line from step 7 and nothing else.
