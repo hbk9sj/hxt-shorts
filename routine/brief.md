@@ -18,8 +18,11 @@ URL equals the queue's `videoUrl` (or the row's old URL in the ledger) with stat
   channel** (count every scheduled post on the channel, not only ours).
 - Buffer tools are found with `ToolSearch` (query "buffer"); they may be named
   `mcp__Buffer__*`. Use `execute_query` for reads and `create_post` for writes.
-- Times: IST is UTC+05:30. Slot grid: every hour at **:30 IST from 07:30 to 22:30 inclusive**
-  (16 slots a day). Nothing is posted between 22:31 and 07:29 IST.
+- Times: IST is UTC+05:30. **One video in every clock hour, round the clock (24 a day), at a
+  random minute.** Pick the minute with `python3 -c "import random; print(random.randint(5, 55))"`;
+  in the 09:00 and 18:00 IST hours (when the hxt-lessons routine posts) use
+  `random.randint(20, 55)`. Instagram and YouTube for the same video share the same time.
+  Never put two queue videos in the same clock hour.
 
 ## Steps
 1. `git pull --rebase`. Read `queue.json` (ordered list; each item has `slug`, `videoUrl`,
@@ -36,9 +39,11 @@ URL equals the queue's `videoUrl` (or the row's old URL in the ledger) with stat
    from Buffer; add a row if Buffer has a post the ledger lacks (never drop a row).
 4. Capacity: for each channel, `free = 8 - (number of Buffer posts on that channel with
    status scheduled)`. If both are 0, skip to step 7.
-5. Next slot: the first grid slot that is later than BOTH (now + 20 minutes) AND the latest
-   `dueAt` among ledger rows whose status is `scheduled`, `sending` or `sent`. Each new video
-   takes the next slot after the previous one.
+5. Next slot: take the latest `dueAt` among ledger rows whose status is `scheduled`,
+   `sending` or `sent`; the next video goes in the clock hour after that one, at a random
+   minute. If that time is earlier than now + 20 minutes, use the clock hour that contains
+   now + 20 minutes instead (random minute no earlier than now + 20 minutes; if that is not
+   possible, the following hour). Each further video in this run takes the next clock hour.
 6. Walk `queue.json` in order. For each item, find the channels it is still missing (per the
    rule above; a row with status `error` counts as missing, but only once — if the slug and
    channel already has two `error` rows, skip it and report it). For each missing channel with
