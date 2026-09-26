@@ -1,15 +1,15 @@
 {
  "note": "Every Buffer post made for Hit x Trial Shorts. Batch 1 = first ten economics Shorts (not in queue.json). Rows are appended by the routine; never removed.",
  "summary": {
-  "updatedAt": "2026-09-26T14:40:00Z",
+  "updatedAt": "2026-09-26T14:37:46Z",
   "queueItems": 64,
   "queueItemsOnBothChannels": 8,
   "byChannelStatus": {
-   "instagram": {
+   "youtube": {
     "sent": 10,
     "scheduled": 8
    },
-   "youtube": {
+   "instagram": {
     "sent": 10,
     "scheduled": 8
    }
@@ -25,7 +25,8 @@
    "dueAt": "2026-09-24T21:59:13.444Z",
    "sentAt": "2026-09-24T21:59:16.931Z",
    "link": "https://www.youtube.com/shorts/bR0hhckYYFA",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/south-sea-bubble.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/south-sea-bubble.mp4",
+   "error": null
   },
   {
    "slug": "south-sea-bubble",
@@ -36,7 +37,8 @@
    "dueAt": "2026-09-24T21:59:27.329Z",
    "sentAt": "2026-09-24T22:03:21.805Z",
    "link": "https://www.instagram.com/reel/Ddr6IqogRDz/",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/south-sea-bubble.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/south-sea-bubble.mp4",
+   "error": null
   },
   {
    "slug": "tulip-mania",
@@ -47,7 +49,8 @@
    "dueAt": "2026-09-24T22:30:00.000Z",
    "sentAt": "2026-09-24T22:30:13.479Z",
    "link": "https://www.youtube.com/shorts/YL-DqZ8MvYo",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/tulip-mania.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/tulip-mania.mp4",
+   "error": null
   },
   {
    "slug": "tulip-mania",
@@ -58,7 +61,8 @@
    "dueAt": "2026-09-24T22:30:00.000Z",
    "sentAt": "2026-09-24T22:31:18.813Z",
    "link": "https://www.instagram.com/reel/Ddr9ioqESXD/",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/tulip-mania.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/tulip-mania.mp4",
+   "error": null
   },
   {
    "slug": "crash-1929",
@@ -69,7 +73,8 @@
    "dueAt": "2026-09-25T00:30:00.000Z",
    "sentAt": "2026-09-25T00:30:30.212Z",
    "link": "https://www.youtube.com/shorts/U_PNh7b2-6o",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/crash-1929.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/crash-1929.mp4",
+   "error": null
   },
   {
    "slug": "crash-1929",
@@ -80,7 +85,8 @@
    "dueAt": "2026-09-25T00:30:00.000Z",
    "sentAt": "2026-09-25T00:30:56.731Z",
    "link": "https://www.instagram.com/reel/DdsLRkLiMX-/",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/crash-1929.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/crash-1929.mp4",
+   "error": null
   },
   {
    "slug": "japan-bubble",
@@ -91,7 +97,8 @@
    "dueAt": "2026-09-25T01:30:00.000Z",
    "sentAt": "2026-09-25T01:30:33.301Z",
    "link": "https://www.youtube.com/shorts/uR4Yqi5uCts",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/japan-bubble.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/japan-bubble.mp4",
+   "error": null
   },
   {
    "slug": "japan-bubble",
@@ -102,7 +109,8 @@
    "dueAt": "2026-09-25T01:30:00.000Z",
    "sentAt": "2026-09-25T01:31:01.012Z",
    "link": "https://www.instagram.com/reel/DdsSKeaAEsz/",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/japan-bubble.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/japan-bubble.mp4",
+   "error": null
   },
   {
    "slug": "subprime-2008",
@@ -113,7 +121,8 @@
    "dueAt": "2026-09-25T04:00:00.000Z",
    "sentAt": "2026-09-25T04:00:21.609Z",
    "link": "https://www.youtube.com/shorts/FOAF13KWhDM",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/subprime-2008.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/subprime-2008.mp4",
+   "error": null
   },
   {
    "slug": "subprime-2008",
@@ -124,7 +133,8 @@
    "dueAt": "2026-09-25T04:00:00.000Z",
    "sentAt": "2026-09-25T04:01:01.085Z",
    "link": "https://www.instagram.com/reel/DdsjTSuDgbB/",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/subprime-2008.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/subprime-2008.mp4",
+   "error": null
   },
   {
    "slug": "what-is-inflation",
@@ -135,7 +145,8 @@
    "dueAt": "2026-09-25T05:00:00.000Z",
    "sentAt": "2026-09-25T05:00:30.103Z",
    "link": "https://www.youtube.com/shorts/EJsiX3wFBNs",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/what-is-inflation.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/what-is-inflation.mp4",
+   "error": null
   },
   {
    "slug": "what-is-inflation",
@@ -146,7 +157,8 @@
    "dueAt": "2026-09-25T05:00:00.000Z",
    "sentAt": "2026-09-25T05:01:51.004Z",
    "link": "https://www.instagram.com/reel/DdsqLbKgD8W/",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/what-is-inflation.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/what-is-inflation.mp4",
+   "error": null
   },
   {
    "slug": "john-law",
@@ -157,7 +169,8 @@
    "dueAt": "2026-09-25T06:00:00.000Z",
    "sentAt": "2026-09-25T06:00:34.101Z",
    "link": "https://www.youtube.com/shorts/HWBMU2nruI0",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/john-law.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/john-law.mp4",
+   "error": null
   },
   {
    "slug": "john-law",
@@ -168,7 +181,8 @@
    "dueAt": "2026-09-25T06:00:00.000Z",
    "sentAt": "2026-09-25T06:02:02.454Z",
    "link": "https://www.instagram.com/reel/DdsxJqOjyMd/",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/john-law.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/john-law.mp4",
+   "error": null
   },
   {
    "slug": "assignats",
@@ -179,7 +193,8 @@
    "dueAt": "2026-09-25T07:00:00.000Z",
    "sentAt": "2026-09-25T07:00:19.993Z",
    "link": "https://www.youtube.com/shorts/Ob11aOoWpiI",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/assignats.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/assignats.mp4",
+   "error": null
   },
   {
    "slug": "assignats",
@@ -190,7 +205,8 @@
    "dueAt": "2026-09-25T07:00:00.000Z",
    "sentAt": "2026-09-25T07:01:34.634Z",
    "link": "https://www.instagram.com/reel/Dds39mVlUUv/",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/assignats.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/assignats.mp4",
+   "error": null
   },
   {
    "slug": "nixon-shock",
@@ -201,7 +217,8 @@
    "dueAt": "2026-09-25T08:00:00.000Z",
    "sentAt": "2026-09-25T08:00:36.534Z",
    "link": "https://www.youtube.com/shorts/3_e9CTgs1wY",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/nixon-shock.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/nixon-shock.mp4",
+   "error": null
   },
   {
    "slug": "nixon-shock",
@@ -212,7 +229,8 @@
    "dueAt": "2026-09-25T08:00:00.000Z",
    "sentAt": "2026-09-25T08:01:20.117Z",
    "link": "https://www.instagram.com/reel/Dds-0v2gkNJ/",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/nixon-shock.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/nixon-shock.mp4",
+   "error": null
   },
   {
    "slug": "zimbabwe-2008",
@@ -223,7 +241,8 @@
    "dueAt": "2026-09-25T09:00:00.000Z",
    "sentAt": "2026-09-25T09:00:52.009Z",
    "link": "https://www.youtube.com/shorts/SNQ3Jxj1zmM",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/zimbabwe-2008.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/zimbabwe-2008.mp4",
+   "error": null
   },
   {
    "slug": "zimbabwe-2008",
@@ -234,7 +253,8 @@
    "dueAt": "2026-09-25T09:00:00.000Z",
    "sentAt": "2026-09-25T09:02:00.059Z",
    "link": "https://www.instagram.com/reel/DdtFsKzDDqd/",
-   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/zimbabwe-2008.mp4"
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-lessons/main/shorts/economics/covered/zimbabwe-2008.mp4",
+   "error": null
   },
   {
    "slug": "emu-war-1932",
@@ -246,7 +266,8 @@
    "sentAt": null,
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/emu-war-1932.mp4",
-   "createdAt": "2026-09-26T14:36:00Z"
+   "createdAt": "2026-09-26T14:36:00Z",
+   "error": null
   },
   {
    "slug": "emu-war-1932",
@@ -258,7 +279,8 @@
    "sentAt": null,
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/emu-war-1932.mp4",
-   "createdAt": "2026-09-26T14:36:00Z"
+   "createdAt": "2026-09-26T14:36:00Z",
+   "error": null
   },
   {
    "slug": "harshad-mehta-1992",
@@ -270,7 +292,8 @@
    "sentAt": null,
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/harshad-mehta-1992.mp4",
-   "createdAt": "2026-09-26T14:36:00Z"
+   "createdAt": "2026-09-26T14:36:00Z",
+   "error": null
   },
   {
    "slug": "harshad-mehta-1992",
@@ -282,7 +305,8 @@
    "sentAt": null,
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/harshad-mehta-1992.mp4",
-   "createdAt": "2026-09-26T14:36:00Z"
+   "createdAt": "2026-09-26T14:36:00Z",
+   "error": null
   },
   {
    "slug": "bitcoin-birth",
@@ -294,7 +318,8 @@
    "sentAt": null,
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/bitcoin-birth.mp4",
-   "createdAt": "2026-09-26T14:36:00Z"
+   "createdAt": "2026-09-26T14:36:00Z",
+   "error": null
   },
   {
    "slug": "bitcoin-birth",
@@ -306,7 +331,8 @@
    "sentAt": null,
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/bitcoin-birth.mp4",
-   "createdAt": "2026-09-26T14:36:00Z"
+   "createdAt": "2026-09-26T14:36:00Z",
+   "error": null
   },
   {
    "slug": "dabbawala-supply",
@@ -318,7 +344,8 @@
    "sentAt": null,
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/dabbawala-supply.mp4",
-   "createdAt": "2026-09-26T14:36:00Z"
+   "createdAt": "2026-09-26T14:36:00Z",
+   "error": null
   },
   {
    "slug": "dabbawala-supply",
@@ -330,7 +357,8 @@
    "sentAt": null,
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/dabbawala-supply.mp4",
-   "createdAt": "2026-09-26T14:36:00Z"
+   "createdAt": "2026-09-26T14:36:00Z",
+   "error": null
   },
   {
    "slug": "gamestop",
@@ -342,7 +370,8 @@
    "sentAt": null,
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/gamestop.mp4",
-   "createdAt": "2026-09-26T14:36:00Z"
+   "createdAt": "2026-09-26T14:36:00Z",
+   "error": null
   },
   {
    "slug": "gamestop",
@@ -354,7 +383,8 @@
    "sentAt": null,
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/gamestop.mp4",
-   "createdAt": "2026-09-26T14:36:00Z"
+   "createdAt": "2026-09-26T14:36:00Z",
+   "error": null
   },
   {
    "slug": "upi-revolution",
@@ -366,7 +396,8 @@
    "sentAt": null,
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/upi-revolution.mp4",
-   "createdAt": "2026-09-26T14:36:00Z"
+   "createdAt": "2026-09-26T14:36:00Z",
+   "error": null
   },
   {
    "slug": "upi-revolution",
@@ -378,7 +409,8 @@
    "sentAt": null,
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/upi-revolution.mp4",
-   "createdAt": "2026-09-26T14:36:00Z"
+   "createdAt": "2026-09-26T14:36:00Z",
+   "error": null
   },
   {
    "slug": "black-wednesday",
@@ -390,7 +422,8 @@
    "sentAt": null,
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/black-wednesday.mp4",
-   "createdAt": "2026-09-26T14:36:00Z"
+   "createdAt": "2026-09-26T14:36:00Z",
+   "error": null
   },
   {
    "slug": "black-wednesday",
@@ -402,7 +435,8 @@
    "sentAt": null,
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/black-wednesday.mp4",
-   "createdAt": "2026-09-26T14:36:00Z"
+   "createdAt": "2026-09-26T14:36:00Z",
+   "error": null
   },
   {
    "slug": "vijay-mallya",
@@ -414,7 +448,8 @@
    "sentAt": null,
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/vijay-mallya.mp4",
-   "createdAt": "2026-09-26T14:36:00Z"
+   "createdAt": "2026-09-26T14:36:00Z",
+   "error": null
   },
   {
    "slug": "vijay-mallya",
@@ -426,7 +461,8 @@
    "sentAt": null,
    "link": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/vijay-mallya.mp4",
-   "createdAt": "2026-09-26T14:36:00Z"
+   "createdAt": "2026-09-26T14:36:00Z",
+   "error": null
   }
  ]
 }
