@@ -1,16 +1,16 @@
 {
  "note": "Every Buffer post made for Hit x Trial Shorts. Batch 1 = first ten economics Shorts (not in queue.json). Rows are appended by the routine; never removed.",
  "summary": {
-  "updatedAt": "2026-09-27T00:13:00Z",
+  "updatedAt": "2026-09-27T03:13:00Z",
   "queueItems": 64,
-  "queueItemsOnBothChannels": 18,
+  "queueItemsOnBothChannels": 21,
   "byChannelStatus": {
    "youtube": {
-    "sent": 20,
+    "sent": 23,
     "scheduled": 8
    },
    "instagram": {
-    "sent": 20,
+    "sent": 23,
     "scheduled": 8
    }
   }
@@ -521,10 +521,10 @@
    "batch": 2,
    "channel": "instagram",
    "postId": "6ab80b0dccccb9429c365e03",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T01:19:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T01:19:57.895Z",
+   "link": "https://www.instagram.com/reel/DdxadIDiXFL/",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/medici-bank.mp4",
    "createdAt": "2026-09-26T18:12:29Z",
    "error": null
@@ -534,10 +534,10 @@
    "batch": 2,
    "channel": "youtube",
    "postId": "6ab80b153d66d464e5b95e6e",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T01:19:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T01:19:03.035Z",
+   "link": "https://www.youtube.com/shorts/XuEuuF33xcI",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/medici-bank.mp4",
    "createdAt": "2026-09-26T18:12:37Z",
    "error": null
@@ -547,10 +547,10 @@
    "batch": 2,
    "channel": "instagram",
    "postId": "6ab80b1b3d66d464e5b95ebc",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T02:22:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T02:23:02.881Z",
+   "link": "https://www.instagram.com/reel/Ddxhq-KgXwH/",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/beer-flood-1814.mp4",
    "createdAt": "2026-09-26T18:12:43Z",
    "error": null
@@ -560,10 +560,10 @@
    "batch": 2,
    "channel": "youtube",
    "postId": "6ab80b220f79a37c5d374f89",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T02:22:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T02:22:08.222Z",
+   "link": "https://www.youtube.com/shorts/nMoIgySA24E",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/beer-flood-1814.mp4",
    "createdAt": "2026-09-26T18:12:50Z",
    "error": null
@@ -573,10 +573,10 @@
    "batch": 2,
    "channel": "instagram",
    "postId": "6ab8350a05811e573738a097",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T02:37:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T02:37:58.922Z",
+   "link": "https://www.instagram.com/reel/DdxjYmpiGbg/",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/india-1991-reforms.mp4",
    "createdAt": "2026-09-26T21:11:38Z",
    "error": null
@@ -586,10 +586,10 @@
    "batch": 2,
    "channel": "youtube",
    "postId": "6ab8351e4b4b9f2c1c585998",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T02:37:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T02:37:03.035Z",
+   "link": "https://www.youtube.com/shorts/goe3G_505Tk",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/india-1991-reforms.mp4",
    "createdAt": "2026-09-26T21:11:58Z",
    "error": null
@@ -723,6 +723,84 @@
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/spanish-silver.mp4",
    "createdAt": "2026-09-27T00:12:17Z",
    "error": null
+  },
+  {
+   "slug": "demonetization-2016",
+   "batch": 2,
+   "channel": "instagram",
+   "postId": "6ab8896305811e573741015e",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T08:37:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T03:11:31Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/demonetization-2016.mp4"
+  },
+  {
+   "slug": "demonetization-2016",
+   "batch": 2,
+   "channel": "youtube",
+   "postId": "6ab889719f89edbefe8751c3",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T08:37:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T03:11:45Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/demonetization-2016.mp4"
+  },
+  {
+   "slug": "black-monday",
+   "batch": 2,
+   "channel": "instagram",
+   "postId": "6ab889774b4b9f2c1c608215",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T09:57:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T03:11:51Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/black-monday.mp4"
+  },
+  {
+   "slug": "black-monday",
+   "batch": 2,
+   "channel": "youtube",
+   "postId": "6ab8897c9f89edbefe875287",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T09:57:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T03:11:56Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/black-monday.mp4"
+  },
+  {
+   "slug": "infosys-it-boom",
+   "batch": 2,
+   "channel": "instagram",
+   "postId": "6ab889834b4b9f2c1c6082c8",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T11:13:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T03:12:03Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/infosys-it-boom.mp4"
+  },
+  {
+   "slug": "infosys-it-boom",
+   "batch": 2,
+   "channel": "youtube",
+   "postId": "6ab8898905811e5737410482",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T11:13:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T03:12:09Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/infosys-it-boom.mp4"
   }
  ]
 }
