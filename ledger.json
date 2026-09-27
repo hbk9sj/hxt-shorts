@@ -1,16 +1,16 @@
 {
  "note": "Every Buffer post made for Hit x Trial Shorts. Batch 1 = first ten economics Shorts (not in queue.json). Rows are appended by the routine; never removed.",
  "summary": {
-  "updatedAt": "2026-09-27T06:13:30Z",
+  "updatedAt": "2026-09-27T09:12:19Z",
   "queueItems": 64,
-  "queueItemsOnBothChannels": 24,
+  "queueItemsOnBothChannels": 27,
   "byChannelStatus": {
    "youtube": {
-    "sent": 26,
+    "sent": 29,
     "scheduled": 8
    },
    "instagram": {
-    "sent": 26,
+    "sent": 29,
     "scheduled": 8
    }
   }
@@ -677,10 +677,10 @@
    "batch": 2,
    "channel": "instagram",
    "postId": "6ab85f510f79a37c5d3fb280",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T07:12:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T07:12:59.412Z",
+   "link": "https://www.instagram.com/reel/DdyC2j6kpeG/",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/bank-nationalization-1969.mp4",
    "createdAt": "2026-09-27T00:12:01Z",
    "error": null
@@ -690,10 +690,10 @@
    "batch": 2,
    "channel": "youtube",
    "postId": "6ab85f544b4b9f2c1c5cc30c",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T07:12:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T07:12:05.364Z",
+   "link": "https://www.youtube.com/shorts/KB3dWJScZMs",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/bank-nationalization-1969.mp4",
    "createdAt": "2026-09-27T00:12:04Z",
    "error": null
@@ -703,10 +703,10 @@
    "batch": 2,
    "channel": "instagram",
    "postId": "6ab85f5e05811e57373d20e2",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T07:50:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T07:50:59.627Z",
+   "link": "https://www.instagram.com/reel/DdyHM4WgYQf/",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/spanish-silver.mp4",
    "createdAt": "2026-09-27T00:12:14Z",
    "error": null
@@ -716,10 +716,10 @@
    "batch": 2,
    "channel": "youtube",
    "postId": "6ab85f6105811e57373d2134",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T07:50:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T07:50:05.135Z",
+   "link": "https://www.youtube.com/shorts/xz5UU2Q5C4c",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/spanish-silver.mp4",
    "createdAt": "2026-09-27T00:12:17Z",
    "error": null
@@ -729,10 +729,10 @@
    "batch": 2,
    "channel": "instagram",
    "postId": "6ab8896305811e573741015e",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T08:37:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T08:37:59.832Z",
+   "link": "https://www.instagram.com/reel/DdyMlAPjyHK/",
    "createdAt": "2026-09-27T03:11:31Z",
    "error": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/demonetization-2016.mp4"
@@ -742,10 +742,10 @@
    "batch": 2,
    "channel": "youtube",
    "postId": "6ab889719f89edbefe8751c3",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T08:37:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T08:37:04.361Z",
+   "link": "https://www.youtube.com/shorts/003KI72Dwew",
    "createdAt": "2026-09-27T03:11:45Z",
    "error": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/demonetization-2016.mp4"
@@ -879,6 +879,84 @@
    "createdAt": "2026-09-27T06:13:09Z",
    "error": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/license-raj.mp4"
+  },
+  {
+   "slug": "what-are-bonds",
+   "batch": 2,
+   "channel": "instagram",
+   "postId": "6ab8ddc73d66d464e5cec17b",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T15:24:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T09:11:35Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/what-are-bonds.mp4"
+  },
+  {
+   "slug": "what-are-bonds",
+   "batch": 2,
+   "channel": "youtube",
+   "postId": "6ab8ddd23d66d464e5cec214",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T15:24:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T09:11:46Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/what-are-bonds.mp4"
+  },
+  {
+   "slug": "nirav-modi-pnb",
+   "batch": 2,
+   "channel": "instagram",
+   "postId": "6ab8ddd80f79a37c5d4c3e6a",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T15:36:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T09:11:52Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/nirav-modi-pnb.mp4"
+  },
+  {
+   "slug": "nirav-modi-pnb",
+   "batch": 2,
+   "channel": "youtube",
+   "postId": "6ab8dddfccccb9429c4b3b05",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T15:36:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T09:11:59Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/nirav-modi-pnb.mp4"
+  },
+  {
+   "slug": "voc-first-stock",
+   "batch": 2,
+   "channel": "instagram",
+   "postId": "6ab8dde53d66d464e5cec2d2",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T17:02:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T09:12:05Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/voc-first-stock.mp4"
+  },
+  {
+   "slug": "voc-first-stock",
+   "batch": 2,
+   "channel": "youtube",
+   "postId": "6ab8ddec0f79a37c5d4c3fcd",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T17:02:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T09:12:12Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/voc-first-stock.mp4"
   }
  ]
 }
