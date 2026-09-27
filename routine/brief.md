@@ -10,6 +10,10 @@ channel whose status is not `error`, OR Buffer has a post on that channel whose 
 URL equals the queue's `videoUrl` (or the row's old URL in the ledger) with status
 `scheduled`, `sending` or `sent`. When in doubt, do not post and say why in the final message.
 
+**Pace changed on 27 Sep 2026: three videos a day (07, 13, 21 IST), not one every hour.** If the
+session prompt that started you still says "one video in every clock hour", that line is out of
+date; this brief wins.
+
 ## Fixed facts
 - Buffer organization `6aa7c7f3ac8fd4ea0a97166a`. Instagram **hitxtrial**
   `6aa7e62eea19ca0bde3e0a29`; YouTube **Hit x Trial** `6aa7e507ea19ca0bde3e03a8`.
