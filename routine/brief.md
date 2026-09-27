@@ -10,7 +10,7 @@ channel whose status is not `error`, OR Buffer has a post on that channel whose 
 URL equals the queue's `videoUrl` (or the row's old URL in the ledger) with status
 `scheduled`, `sending` or `sent`. When in doubt, do not post and say why in the final message.
 
-**Pace changed on 27 Sep 2026: three videos a day (07, 13, 21 IST), not one every hour.** If the
+**Pace changed on 27 Sep 2026: four videos a day (07, 12, 15, 21 IST), not one every hour.** If the
 session prompt that started you still says "one video in every clock hour", that line is out of
 date; this brief wins.
 
@@ -22,12 +22,12 @@ date; this brief wins.
   channel** (count every scheduled post on the channel, not only ours).
 - Buffer tools are found with `ToolSearch` (query "buffer"); they may be named
   `mcp__Buffer__*`. Use `execute_query` for reads and `create_post` for writes.
-- Times: IST is UTC+05:30. **Three videos a day, one in each fixed slot hour: 07:00, 13:00 and
-  21:00 IST** (the hxt-lessons routine adds 09:00 and 18:00 IST, so the channel gets five Shorts a
-  day). Post at a random minute inside the slot hour, picked with
+- Times: IST is UTC+05:30. **Four videos a day, one in each fixed slot hour: 07:00, 12:00, 15:00
+  and 21:00 IST** (the hxt-lessons routine adds 09:00 and 18:00 IST, so each channel gets six
+  posts a day). Post at a random minute inside the slot hour, picked with
   `python3 -c "import random; print(random.randint(5, 55))"`. Instagram and YouTube for the same
   video share the same time. Never put two queue videos in the same slot, and never schedule a
-  queue video outside the three slot hours.
+  queue video outside the four slot hours.
 
 ## Steps
 1. `git pull --rebase`. Read `queue.json` (ordered list; each item has `slug`, `videoUrl`,
@@ -45,10 +45,10 @@ date; this brief wins.
 4. Capacity: for each channel, `free = 8 - (number of Buffer posts on that channel with
    status scheduled)`. If both are 0, skip to step 7.
 5. Next slot: take the latest `dueAt` among ledger rows whose status is `scheduled`,
-   `sending` or `sent`; the next video goes in the next slot hour (07, 13 or 21 IST) after that
-   one, at a random minute. If that time is earlier than now + 20 minutes, use the first slot
-   hour whose random minute can be at least now + 20 minutes instead. Each further video in
-   this run takes the next slot hour (so at most three per IST day).
+   `sending` or `sent`; the next video goes in the next slot hour (07, 12, 15 or 21 IST) after
+   that one, at a random minute. If that time is earlier than now + 20 minutes, use the first
+   slot hour whose random minute can be at least now + 20 minutes instead. Each further video in
+   this run takes the next slot hour (so at most four per IST day).
 6. Walk `queue.json` in order. For each item, find the channels it is still missing (per the
    rule above; a row with status `error` counts as missing, but only once — if the slug and
    channel already has two `error` rows, skip it and report it). For each missing channel with
