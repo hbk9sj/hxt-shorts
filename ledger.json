@@ -1,17 +1,20 @@
 {
  "note": "Every Buffer post made for Hit x Trial Shorts. Batch 1 = first ten economics Shorts (not in queue.json). Rows are appended by the routine; never removed.",
  "summary": {
-  "updatedAt": "2026-09-27T09:12:19Z",
+  "updatedAt": "2026-09-27T12:13:56Z",
   "queueItems": 64,
-  "queueItemsOnBothChannels": 27,
+  "queueItemsOnBothChannels": 30,
   "byChannelStatus": {
    "youtube": {
-    "sent": 29,
-    "scheduled": 8
+    "sent": 32,
+    "scheduled": 8,
+    "deleted": 1
    },
    "instagram": {
-    "sent": 29,
-    "scheduled": 8
+    "sent": 31,
+    "sending": 1,
+    "scheduled": 8,
+    "deleted": 1
    }
   }
  },
@@ -755,10 +758,10 @@
    "batch": 2,
    "channel": "instagram",
    "postId": "6ab889774b4b9f2c1c608215",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T09:57:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T09:59:58.405Z",
+   "link": "https://www.instagram.com/reel/DdyVv92jrUJ/",
    "createdAt": "2026-09-27T03:11:51Z",
    "error": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/black-monday.mp4"
@@ -768,10 +771,10 @@
    "batch": 2,
    "channel": "youtube",
    "postId": "6ab8897c9f89edbefe875287",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T09:57:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T09:57:07.810Z",
+   "link": "https://www.youtube.com/shorts/3-LsB8gRrZ4",
    "createdAt": "2026-09-27T03:11:56Z",
    "error": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/black-monday.mp4"
@@ -781,10 +784,10 @@
    "batch": 2,
    "channel": "instagram",
    "postId": "6ab889834b4b9f2c1c6082c8",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T11:13:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T11:15:59.390Z",
+   "link": "https://www.instagram.com/reel/Ddyegj5CSKa/",
    "createdAt": "2026-09-27T03:12:03Z",
    "error": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/infosys-it-boom.mp4"
@@ -794,10 +797,10 @@
    "batch": 2,
    "channel": "youtube",
    "postId": "6ab8898905811e5737410482",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T11:13:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T11:13:07.675Z",
+   "link": "https://www.youtube.com/shorts/4sAetvvCTSE",
    "createdAt": "2026-09-27T03:12:09Z",
    "error": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/infosys-it-boom.mp4"
@@ -807,7 +810,7 @@
    "batch": 2,
    "channel": "instagram",
    "postId": "6ab8b3d30f79a37c5d47770f",
-   "status": "scheduled",
+   "status": "sending",
    "dueAt": "2026-09-27T12:12:00.000Z",
    "sentAt": null,
    "link": null,
@@ -820,10 +823,10 @@
    "batch": 2,
    "channel": "youtube",
    "postId": "6ab8b3dc9f89edbefe8b65a9",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T12:12:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T12:12:04.623Z",
+   "link": "https://www.youtube.com/watch?v=3x_Yxm-vlcU",
    "createdAt": "2026-09-27T06:12:44Z",
    "error": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/dancing-plague-1518.mp4"
@@ -911,12 +914,12 @@
    "batch": 2,
    "channel": "instagram",
    "postId": "6ab8ddd80f79a37c5d4c3e6a",
-   "status": "scheduled",
+   "status": "deleted",
    "dueAt": "2026-09-27T15:36:00.000Z",
    "sentAt": null,
    "link": null,
    "createdAt": "2026-09-27T09:11:52Z",
-   "error": null,
+   "error": "Post not found in Buffer on 2026-09-27T12:15Z (deleted outside the routine); not re-posted",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/nirav-modi-pnb.mp4"
   },
   {
@@ -924,12 +927,12 @@
    "batch": 2,
    "channel": "youtube",
    "postId": "6ab8dddfccccb9429c4b3b05",
-   "status": "scheduled",
+   "status": "deleted",
    "dueAt": "2026-09-27T15:36:00.000Z",
    "sentAt": null,
    "link": null,
    "createdAt": "2026-09-27T09:11:59Z",
-   "error": null,
+   "error": "Post not found in Buffer on 2026-09-27T12:15Z (deleted outside the routine); not re-posted",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/nirav-modi-pnb.mp4"
   },
   {
@@ -957,6 +960,110 @@
    "createdAt": "2026-09-27T09:12:12Z",
    "error": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/voc-first-stock.mp4"
+  },
+  {
+   "slug": "amul-white-revolution",
+   "batch": 2,
+   "channel": "instagram",
+   "postId": "6ab9084e1bf030e330a638ef",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T17:35:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T12:13:06Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/amul-white-revolution.mp4"
+  },
+  {
+   "slug": "amul-white-revolution",
+   "batch": 2,
+   "channel": "youtube",
+   "postId": "6ab908551bf030e330a639ad",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T17:35:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T12:13:12Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/amul-white-revolution.mp4"
+  },
+  {
+   "slug": "dotcom-bubble",
+   "batch": 2,
+   "channel": "instagram",
+   "postId": "6ab9085b36a0dcfcb3d39c5f",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T19:08:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T12:13:19Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/dotcom-bubble.mp4"
+  },
+  {
+   "slug": "dotcom-bubble",
+   "batch": 2,
+   "channel": "youtube",
+   "postId": "6ab9086154f1e60c7e6a1a18",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T19:08:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T12:13:25Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/dotcom-bubble.mp4"
+  },
+  {
+   "slug": "gold-india",
+   "batch": 2,
+   "channel": "instagram",
+   "postId": "6ab9086854f1e60c7e6a1ade",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T19:53:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T12:13:32Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/gold-india.mp4"
+  },
+  {
+   "slug": "gold-india",
+   "batch": 2,
+   "channel": "youtube",
+   "postId": "6ab9086e612c9e6ac92318f0",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T19:53:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T12:13:38Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/gold-india.mp4"
+  },
+  {
+   "slug": "supply-demand",
+   "batch": 2,
+   "channel": "instagram",
+   "postId": "6ab9087543493a0ede8da0b6",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T21:18:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T12:13:45Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/supply-demand.mp4"
+  },
+  {
+   "slug": "supply-demand",
+   "batch": 2,
+   "channel": "youtube",
+   "postId": "6ab9087b43493a0ede8da12b",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T21:18:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T12:13:56Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/supply-demand.mp4"
   }
  ]
 }
