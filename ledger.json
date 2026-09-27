@@ -3,7 +3,7 @@
  "summary": {
   "updatedAt": "2026-09-27T06:13:30Z",
   "queueItems": 64,
-  "queueItemsOnBothChannels": 16,
+  "queueItemsOnBothChannels": 24,
   "byChannelStatus": {
    "youtube": {
     "sent": 26,
