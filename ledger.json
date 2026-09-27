@@ -1,22 +1,22 @@
 {
   "note": "Every Buffer post made for Hit x Trial Shorts. Batch 1 = first ten economics Shorts (not in queue.json). Rows are appended by the routine; never removed.",
   "summary": {
-    "updatedAt": "2026-09-27T12:13:56Z",
+    "updatedAt": "2026-09-27T15:12:26Z",
     "queueItems": 64,
-    "queueItemsOnBothChannels": 30,
+    "queueItemsOnBothChannels": 32,
     "byChannelStatus": {
       "youtube": {
-        "sent": 32,
+        "sent": 34,
         "scheduled": 8,
         "deleted": 1
       },
       "instagram": {
-        "sent": 31,
-        "sending": 1,
+        "sent": 34,
         "scheduled": 8,
         "deleted": 1
       }
-    }
+    },
+    "queueItemsSentOnBothChannels": 24
   },
   "rows": [
     {
@@ -810,10 +810,10 @@
       "batch": 2,
       "channel": "instagram",
       "postId": "6ab8b3d30f79a37c5d47770f",
-      "status": "sending",
+      "status": "sent",
       "dueAt": "2026-09-27T12:12:00.000Z",
-      "sentAt": null,
-      "link": null,
+      "sentAt": "2026-09-27T12:12:56.735Z",
+      "link": "https://www.instagram.com/reel/DdylL6fk1nt/",
       "createdAt": "2026-09-27T06:12:35Z",
       "error": null,
       "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/dancing-plague-1518.mp4"
@@ -836,10 +836,10 @@
       "batch": 2,
       "channel": "instagram",
       "postId": "6ab8b3e24b4b9f2c1c6466bb",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-09-27T13:25:00.000Z",
-      "sentAt": null,
-      "link": null,
+      "sentAt": "2026-09-27T13:25:58.467Z",
+      "link": "https://www.instagram.com/reel/DdytiZACSJf/",
       "createdAt": "2026-09-27T06:12:50Z",
       "error": null,
       "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/iceland-2008.mp4"
@@ -849,10 +849,10 @@
       "batch": 2,
       "channel": "youtube",
       "postId": "6ab8b3e90f79a37c5d477951",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-09-27T13:25:00.000Z",
-      "sentAt": null,
-      "link": null,
+      "sentAt": "2026-09-27T13:25:06.555Z",
+      "link": "https://www.youtube.com/shorts/nRY8fhiqZLk",
       "createdAt": "2026-09-27T06:12:57Z",
       "error": null,
       "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/iceland-2008.mp4"
@@ -862,10 +862,10 @@
       "batch": 2,
       "channel": "instagram",
       "postId": "6ab8b3ef9f89edbefe8b6684",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-09-27T14:03:00.000Z",
-      "sentAt": null,
-      "link": null,
+      "sentAt": "2026-09-27T14:04:29.786Z",
+      "link": "https://www.instagram.com/reel/Ddyx6pAAPB-/",
       "createdAt": "2026-09-27T06:13:03Z",
       "error": null,
       "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/license-raj.mp4"
@@ -875,10 +875,10 @@
       "batch": 2,
       "channel": "youtube",
       "postId": "6ab8b3f59f89edbefe8b672f",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-09-27T14:03:00.000Z",
-      "sentAt": null,
-      "link": null,
+      "sentAt": "2026-09-27T14:03:38.437Z",
+      "link": "https://www.youtube.com/shorts/ozL8Aiapyx4",
       "createdAt": "2026-09-27T06:13:09Z",
       "error": null,
       "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/license-raj.mp4"
@@ -1064,6 +1064,54 @@
       "createdAt": "2026-09-27T12:13:56Z",
       "error": null,
       "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/supply-demand.mp4"
+    },
+    {
+      "slug": "cadaver-synod",
+      "channel": "instagram",
+      "postId": "6ab93236612c9e6ac9290216",
+      "status": "scheduled",
+      "dueAt": "2026-09-29T06:50:00.000Z",
+      "sentAt": null,
+      "link": null,
+      "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/cadaver-synod.mp4",
+      "error": null,
+      "createdAt": "2026-09-27T15:11:50.598Z"
+    },
+    {
+      "slug": "cadaver-synod",
+      "channel": "youtube",
+      "postId": "6ab932421bf030e330ac0c2d",
+      "status": "scheduled",
+      "dueAt": "2026-09-29T06:50:00.000Z",
+      "sentAt": null,
+      "link": null,
+      "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/cadaver-synod.mp4",
+      "error": null,
+      "createdAt": "2026-09-27T15:12:02.587Z"
+    },
+    {
+      "slug": "ketan-parekh-2001",
+      "channel": "instagram",
+      "postId": "6ab9324e612c9e6ac9290387",
+      "status": "scheduled",
+      "dueAt": "2026-09-29T10:24:00.000Z",
+      "sentAt": null,
+      "link": null,
+      "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/ketan-parekh-2001.mp4",
+      "error": null,
+      "createdAt": "2026-09-27T15:12:14.552Z"
+    },
+    {
+      "slug": "ketan-parekh-2001",
+      "channel": "youtube",
+      "postId": "6ab9325170ec211d1d1c9c81",
+      "status": "scheduled",
+      "dueAt": "2026-09-29T10:24:00.000Z",
+      "sentAt": null,
+      "link": null,
+      "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/ketan-parekh-2001.mp4",
+      "error": null,
+      "createdAt": "2026-09-27T15:12:17.752Z"
     }
   ]
 }
