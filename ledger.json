@@ -1,16 +1,16 @@
 {
  "note": "Every Buffer post made for Hit x Trial Shorts. Batch 1 = first ten economics Shorts (not in queue.json). Rows are appended by the routine; never removed.",
  "summary": {
-  "updatedAt": "2026-09-27T03:13:00Z",
+  "updatedAt": "2026-09-27T06:13:30Z",
   "queueItems": 64,
-  "queueItemsOnBothChannels": 21,
+  "queueItemsOnBothChannels": 16,
   "byChannelStatus": {
    "youtube": {
-    "sent": 23,
+    "sent": 26,
     "scheduled": 8
    },
    "instagram": {
-    "sent": 23,
+    "sent": 26,
     "scheduled": 8
    }
   }
@@ -599,10 +599,10 @@
    "batch": 2,
    "channel": "instagram",
    "postId": "6ab835254b4b9f2c1c585a3e",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T04:20:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T04:20:57.809Z",
+   "link": "https://www.instagram.com/reel/DdxvK1lkyrC/",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/enron.mp4",
    "createdAt": "2026-09-26T21:12:05Z",
    "error": null
@@ -612,10 +612,10 @@
    "batch": 2,
    "channel": "youtube",
    "postId": "6ab8352a0f79a37c5d3b40de",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T04:20:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T04:20:05.651Z",
+   "link": "https://www.youtube.com/shorts/lQV1ZFHu9BU",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/enron.mp4",
    "createdAt": "2026-09-26T21:12:10Z",
    "error": null
@@ -625,10 +625,10 @@
    "batch": 2,
    "channel": "instagram",
    "postId": "6ab835363d66d464e5bd5e0b",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T04:46:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T04:46:59.781Z",
+   "link": "https://www.instagram.com/reel/DdxyJiqAv0X/",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/satyam-scandal.mp4",
    "createdAt": "2026-09-26T21:12:22Z",
    "error": null
@@ -638,10 +638,10 @@
    "batch": 2,
    "channel": "youtube",
    "postId": "6ab8353d0f79a37c5d3b421a",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T04:46:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T04:46:02.843Z",
+   "link": "https://www.youtube.com/shorts/UwnLUVqXA6M",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/satyam-scandal.mp4",
    "createdAt": "2026-09-26T21:12:29Z",
    "error": null
@@ -651,10 +651,10 @@
    "batch": 2,
    "channel": "instagram",
    "postId": "6ab85f4205811e57373d2015",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T06:00:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T06:01:46.739Z",
+   "link": "https://www.instagram.com/reel/Ddx6tRLiMGG/",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/what-is-stock.mp4",
    "createdAt": "2026-09-27T00:11:46Z",
    "error": null
@@ -664,10 +664,10 @@
    "batch": 2,
    "channel": "youtube",
    "postId": "6ab85f4405811e57373d2040",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-09-27T06:00:00.000Z",
-   "sentAt": null,
-   "link": null,
+   "sentAt": "2026-09-27T06:00:50.206Z",
+   "link": "https://www.youtube.com/shorts/vUlJwS2mjzI",
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/what-is-stock.mp4",
    "createdAt": "2026-09-27T00:11:48Z",
    "error": null
@@ -801,6 +801,84 @@
    "createdAt": "2026-09-27T03:12:09Z",
    "error": null,
    "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/infosys-it-boom.mp4"
+  },
+  {
+   "slug": "dancing-plague-1518",
+   "batch": 2,
+   "channel": "instagram",
+   "postId": "6ab8b3d30f79a37c5d47770f",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T12:12:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T06:12:35Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/dancing-plague-1518.mp4"
+  },
+  {
+   "slug": "dancing-plague-1518",
+   "batch": 2,
+   "channel": "youtube",
+   "postId": "6ab8b3dc9f89edbefe8b65a9",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T12:12:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T06:12:44Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/dancing-plague-1518.mp4"
+  },
+  {
+   "slug": "iceland-2008",
+   "batch": 2,
+   "channel": "instagram",
+   "postId": "6ab8b3e24b4b9f2c1c6466bb",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T13:25:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T06:12:50Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/iceland-2008.mp4"
+  },
+  {
+   "slug": "iceland-2008",
+   "batch": 2,
+   "channel": "youtube",
+   "postId": "6ab8b3e90f79a37c5d477951",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T13:25:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T06:12:57Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/iceland-2008.mp4"
+  },
+  {
+   "slug": "license-raj",
+   "batch": 2,
+   "channel": "instagram",
+   "postId": "6ab8b3ef9f89edbefe8b6684",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T14:03:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T06:13:03Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/license-raj.mp4"
+  },
+  {
+   "slug": "license-raj",
+   "batch": 2,
+   "channel": "youtube",
+   "postId": "6ab8b3f59f89edbefe8b672f",
+   "status": "scheduled",
+   "dueAt": "2026-09-27T14:03:00.000Z",
+   "sentAt": null,
+   "link": null,
+   "createdAt": "2026-09-27T06:13:09Z",
+   "error": null,
+   "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/license-raj.mp4"
   }
  ]
 }
