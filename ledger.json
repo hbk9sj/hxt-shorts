@@ -1,22 +1,22 @@
 {
   "note": "Every Buffer post made for Hit x Trial Shorts. Batch 1 = first ten economics Shorts (not in queue.json). Rows are appended by the routine; never removed.",
   "summary": {
-    "updatedAt": "2026-09-27T15:12:26Z",
-    "queueItems": 64,
-    "queueItemsOnBothChannels": 32,
+    "updatedAt": "2026-09-27T18:12:00Z",
+    "queueItems": 109,
+    "queueItemsOnBothChannels": 34,
     "byChannelStatus": {
       "youtube": {
-        "sent": 34,
-        "scheduled": 8,
-        "deleted": 1
+        "sent": 35,
+        "deleted": 1,
+        "scheduled": 8
       },
       "instagram": {
-        "sent": 34,
-        "scheduled": 8,
-        "deleted": 1
+        "sent": 35,
+        "deleted": 1,
+        "scheduled": 8
       }
     },
-    "queueItemsSentOnBothChannels": 24
+    "queueItemsSentOnBothChannels": 25
   },
   "rows": [
     {
@@ -888,10 +888,10 @@
       "batch": 2,
       "channel": "instagram",
       "postId": "6ab8ddc73d66d464e5cec17b",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-09-27T15:54:00.000Z",
-      "sentAt": null,
-      "link": null,
+      "sentAt": "2026-09-27T15:54:58.463Z",
+      "link": "https://www.instagram.com/reel/Ddy-lytlRo5/",
       "createdAt": "2026-09-27T09:11:35Z",
       "error": null,
       "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/what-are-bonds.mp4"
@@ -901,10 +901,10 @@
       "batch": 2,
       "channel": "youtube",
       "postId": "6ab8ddd23d66d464e5cec214",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-09-27T15:54:00.000Z",
-      "sentAt": null,
-      "link": null,
+      "sentAt": "2026-09-27T15:54:02.662Z",
+      "link": "https://www.youtube.com/shorts/whRsk0F0MQM",
       "createdAt": "2026-09-27T09:11:46Z",
       "error": null,
       "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/what-are-bonds.mp4"
@@ -1112,6 +1112,30 @@
       "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/ketan-parekh-2001.mp4",
       "error": null,
       "createdAt": "2026-09-27T15:12:17.752Z"
+    },
+    {
+      "slug": "panic-1907",
+      "channel": "instagram",
+      "postId": "6ab95c5c36a0dcfcb3df084d",
+      "status": "scheduled",
+      "dueAt": "2026-09-29T15:46:00.000Z",
+      "sentAt": null,
+      "link": null,
+      "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/panic-1907.mp4",
+      "error": null,
+      "createdAt": "2026-09-27T18:11:40.294Z"
+    },
+    {
+      "slug": "panic-1907",
+      "channel": "youtube",
+      "postId": "6ab95c6643493a0ede98f4f8",
+      "status": "scheduled",
+      "dueAt": "2026-09-29T15:46:00.000Z",
+      "sentAt": null,
+      "link": null,
+      "videoUrl": "https://raw.githubusercontent.com/hbk9sj/hxt-shorts-media/main/videos/panic-1907.mp4",
+      "error": null,
+      "createdAt": "2026-09-27T18:11:50.269Z"
     }
   ]
 }
